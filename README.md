@@ -1,4 +1,4 @@
-# SangHeon Lee
+# 이상
 
 백엔드를 중심으로 필요에 따라 프론트엔드와 데스크톱 애플리케이션까지 구현하는 개발자입니다.
 
@@ -12,7 +12,7 @@
 - **Frontend:** React, Vue 3, Vite
 - **Desktop:** Tauri
 - **Database:** PostgreSQL, SQLite
-- **Tools:** Git, Docker, GitHub Actions, pnpm
+- **Cloud & Infrastructure:** AWS Lambda, S3, SQS, CloudWatch, Docker
 
 ## 🚀 Recent Projects
 
