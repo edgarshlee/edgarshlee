@@ -12,7 +12,7 @@
 - **Frontend:** React, Vue 3, Vite
 - **Desktop:** Tauri
 - **Database:** PostgreSQL, SQLite
-- **Cloud & Infrastructure:** AWS Lambda, S3, SQS, CloudWatch, Docker
+- **Cloud & Infrastructure:** AWS Lambda, S3, AWS SQS, AWS SNS, CloudWatch, Docker
 
 ## 🚀 Recent Projects
 
